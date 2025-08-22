@@ -36,7 +36,7 @@ This is a great project for beginner Python developers to learn about file handl
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/CoffeeShopManager.git
+   git clone https://github.com/Suhailazhr/Coffee-Shop-Management-System.git
 
 2. **Navigate to the source folder:**
     cd CoffeeShopManager/Main.py
